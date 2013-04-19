@@ -1,0 +1,4 @@
+import base64
+print base64.decodestring("W0VMQVNIR0VUXWh0dHA6Ly9sb3ZlLnFjZmFucy5jbi9kb3duL3\
+BwdC/G+7O1t6K2r7v6ubnU7NPr0N7A7S+12rDL1cIgt6K2r7v6tcTXsMXkoaK199X70+vEpbrPLnB\
+wdFtGTEFTSEdFVF0=")
